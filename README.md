@@ -104,11 +104,4 @@ These skills don't replace your stack, they run inside it. You'll still need:
 ## Installing the skills
 
 Each `.skill` file installs the same way any Claude skill does in your account. Where exactly that setting lives depends on whether you're in Claude.ai or Cowork, and that path has changed before as Anthropic updates the product, so check your current Settings or Capabilities menu for the add-a-skill option rather than relying on a specific click path here.
-
-## What this guide does not include
-
-There's no Notion template in this package yet. I'm still figuring out what's worth templating versus what just needs to live in your own calendar tool, so for now this guide and the weekly checklist are what you're getting. If a template comes together later, I'll follow up.
-
----
-
-Questions on any step? Reply here or send a DM. Curious to hear how this runs for you once you've got it set up.
+The skill files are provided in the .zip file.
